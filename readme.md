@@ -1,5 +1,7 @@
 ## Adding a New Op in TensorFlow
 `https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/adding_an_op`
+`https://www.tensorflow.org/extend/adding_an_op`
+
 1. Register the new op in a C++ file.
 2. Implement the op in C++.
 3. Create a Python wrapper(optional).
